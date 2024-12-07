@@ -146,38 +146,38 @@
                 },
                 {
                     "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-apple",
-                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                        "img": "images/pictures/memco-logo.png",
+                        "fa": "",
+                        "faColors": { "bg": null, "fill": null }
                     },
                     "dates": {
-                        "start": "12/01/2022",
+                        "start": "01/01/2022",
                         "end": "now"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Senior Backend** Developer",
-                            "info": "Apple Inc.",
-                            "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**Team Lead & Software Architect**",
+                            "info": "MEMCO SAS",
+                            "text": "<p>As a Team Lead and Software Architect at MEMCO SAS, I have been responsible for overseeing and structuring the entire software development process, from architecture design to team management and deployment. I lead initiatives to enhance operational efficiency through modern technologies and collaboration across departments.</p> <ul><li>Structured project architecture, defined workflows, delivery timelines, and task management using Jira Software.</li><li>Supervised team, ensuring optimal resource allocation and continuous evolution of developments.</li><li>Created detailed technical documentation, including flow diagrams, ER models, and system optimization strategies using Lucidchart.</li><li>Led evaluation and integration of third-party solutions, ensuring high-quality standards and business alignment.</li><li>Gathered business requirements, performed risk analysis, and defined technical solutions to meet client needs.</li><li>Developed backend systems using Node.js, TypeScript, ExpressJS, MongoDB, PHP, and MySQL, with a focus on scalability and performance.</li><li>Designed intuitive user interfaces and optimized UX using Figma and Anima for seamless user interaction.</li><li>Implemented and monitored cloud services using AWS (EC2, S3, Route 53, IAM), ensuring scalability and security.</li><li>Automated data processes with Python and Power Automate, optimizing efficiency and data reliability.</li></ul>",
+                            "tags": ["Team Lead", "Software Architect", "Backend", "Frontend", "Cloud", "Automation", "UI/UX", "Data Analysis"]
                         },
                         "es": {
-                            "title": "Desarrollador **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**Líder de Equipo y Arquitecto de Software**",
+                            "info": "MEMCO SAS",
+                            "text": "<p>Como Líder de Equipo y Arquitecto de Software en MEMCO SAS, he sido responsable de supervisar y estructurar todo el proceso de desarrollo de software, desde el diseño de la arquitectura hasta la gestión del equipo y la implementación. Lidero iniciativas para mejorar la eficiencia operativa mediante tecnologías modernas y colaboración entre departamentos.</p> <ul><li>Estructuré la arquitectura de proyectos, definí flujos de trabajo, cronogramas de entrega y gestioné tareas usando Jira Software.</li><li>Supervisé al equipo, asegurando una asignación óptima de recursos y la evolución continua de los desarrollos.</li><li>Creé documentación técnica detallada, incluyendo diagramas de flujo, modelos ER y estrategias de optimización de sistemas usando Lucidchart.</li><li>Lideré la evaluación e integración de soluciones de terceros, garantizando estándares de alta calidad y alineación con el negocio.</li><li>Recolecté requisitos de negocio, realicé análisis de riesgos y definí soluciones técnicas para satisfacer las necesidades de los clientes.</li><li>Desarrollé sistemas backend utilizando Node.js, TypeScript, ExpressJS, MongoDB, PHP y MySQL, con enfoque en escalabilidad y rendimiento.</li><li>Diseñé interfaces de usuario intuitivas y optimicé la experiencia de usuario utilizando Figma y Anima para una interacción fluida.</li><li>Implementé y supervisé servicios en la nube con AWS (EC2, S3, Route 53, IAM), asegurando escalabilidad y seguridad.</li><li>Automaticé procesos de datos con Python y Power Automate, optimizando eficiencia y fiabilidad de datos.</li></ul>",
+                            "tags": ["Líder de Equipo", "Arquitecto de Software", "Backend", "Frontend", "Cloud", "Automatización", "UI/UX", "Análisis de Datos"]
                         },
                         "fr": {
-                            "title": "Développeur **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**Chef d'Équipe et Architecte Logiciel**",
+                            "info": "MEMCO SAS",
+                            "text": "<p>En tant que Chef d'Équipe et Architecte Logiciel chez MEMCO SAS, j'ai été chargé de superviser et de structurer l'ensemble du processus de développement logiciel, de la conception de l'architecture à la gestion de l'équipe et au déploiement. Je dirige des initiatives visant à améliorer l'efficacité opérationnelle grâce aux technologies modernes et à la collaboration inter-départements.</p> <ul><li>Structuré l'architecture des projets, défini des workflows, des échéances de livraison et géré les tâches avec Jira Software.</li><li>Supervisé l'équipe, assurant une allocation optimale des ressources et une évolution continue des développements.</li><li>Créé une documentation technique détaillée, y compris des diagrammes de flux, des modèles ER et des stratégies d'optimisation des systèmes avec Lucidchart.</li><li>Dirigé l'évaluation et l'intégration de solutions tierces, garantissant des normes de haute qualité et une alignement commercial.</li><li>Collecté les exigences métier, effectué des analyses de risques et défini des solutions techniques pour répondre aux besoins des clients.</li><li>Développé des systèmes backend utilisant Node.js, TypeScript, ExpressJS, MongoDB, PHP et MySQL, avec un accent sur l'évolutivité et les performances.</li><li>Conçu des interfaces utilisateur intuitives et optimisé l'UX avec Figma et Anima pour une interaction utilisateur fluide.</li><li>Implémenté et supervisé des services cloud avec AWS (EC2, S3, Route 53, IAM), garantissant évolutivité et sécurité.</li><li>Automatisé les processus de données avec Python et Power Automate, optimisant l'efficacité et la fiabilité des données.</li></ul>",
+                            "tags": ["Chef d'Équipe", "Architecte Logiciel", "Backend", "Frontend", "Cloud", "Automatisation", "UI/UX", "Analyse de Données"]
                         },
                         "ko": {
-                            "title": "**수석 백엔드** 개발자",
-                            "info": "애플 주식회사",
-                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**팀 리더 및 소프트웨어 아키텍트**",
+                            "info": "MEMCO SAS",
+                            "text": "<p>MEMCO SAS에서 팀 리더 및 소프트웨어 아키텍트로서, 아키텍처 설계부터 팀 관리 및 배포에 이르기까지 전체 소프트웨어 개발 프로세스를 감독하고 구조화하는 역할을 담당했습니다. 현대 기술과 부서 간 협력을 통해 운영 효율성을 향상시키는 이니셔티브를 주도했습니다.</p> <ul><li>프로젝트 아키텍처를 구조화하고 워크플로, 전달 일정 및 Jira Software를 사용한 작업 관리를 정의했습니다.</li><li>팀 감독을 담당하여 최적의 자원 할당과 개발의 지속적인 진화를 보장했습니다.</li><li>Lucidchart를 사용하여 흐름도, ER 모델 및 시스템 최적화 전략을 포함한 자세한 기술 문서를 작성했습니다.</li><li>고품질 표준과 비즈니스 정렬을 보장하기 위해 제3자 솔루션 평가 및 통합을 주도했습니다.</li><li>비즈니스 요구 사항을 수집하고, 위험 분석을 수행하며, 고객 요구를 충족시키기 위한 기술 솔루션을 정의했습니다.</li><li>Node.js, TypeScript, ExpressJS, MongoDB, PHP 및 MySQL을 사용하여 확장 가능하고 성능이 뛰어난 백엔드 시스템을 개발했습니다.</li><li>Figma와 Anima를 사용하여 직관적인 사용자 인터페이스를 설계하고 사용자 경험을 최적화했습니다.</li><li>AWS(EC2, S3, Route 53, IAM)를 사용하여 클라우드 서비스를 구현하고 모니터링하여 확장성과 보안을 보장했습니다.</li><li>Python 및 Power Automate를 사용하여 데이터 프로세스를 자동화하여 효율성과 데이터 신뢰성을 최적화했습니다.</li></ul>",
+                            "tags": ["팀 리더", "소프트웨어 아키텍트", "백엔드", "프론트엔드", "클라우드", "자동화", "UI/UX", "데이터 분석"]
                         }
                     }
                 }

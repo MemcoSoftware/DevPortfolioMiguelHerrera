@@ -146,19 +146,95 @@
                     "locales": {
                         "en": {
                             "title": "Information **Security**",
-                            "text": "Security is my middle name!"
+                            "text": "Your information is always safe with me!"
                         },
                         "es": {
                             "title": "**Seguridad** de la información",
-                            "text": "¡La seguridad es mi segundo nombre!"
+                            "text": "¡Tu información siempre está segura conmigo!"
                         },
                         "fr": {
                             "title": "**Sécurité** de l'information",
-                            "text": "La sécurité est mon deuxième prénom !"
+                            "text": "Vos informations sont toujours en sécurité avec moi !"
                         },
                         "ko": {
                             "title": "정보 **보안**",
-                            "text": "보안은 제 전문 분야입니다!"
+                            "text": "귀하의 정보는 항상 안전합니다!"
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Automation**",
+                            "text": "I can streamline processes and boost efficiency!"
+                        },
+                        "es": {
+                            "title": "**Automatización**",
+                            "text": "¡Puedo optimizar procesos y aumentar la eficiencia!"
+                        },
+                        "fr": {
+                            "title": "**Automatisation**",
+                            "text": "Je peux rationaliser les processus et améliorer l'efficacité !"
+                        },
+                        "ko": {
+                            "title": "**자동화**",
+                            "text": "프로세스를 최적화하고 효율성을 높일 수 있습니다!"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-bar",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data Analytics**",
+                            "text": "Transforming data into insights with tools like Power BI!"
+                        },
+                        "es": {
+                            "title": "**Analítica de Datos**",
+                            "text": "¡Transformando datos en insights con herramientas como Power BI!"
+                        },
+                        "fr": {
+                            "title": "**Analyse de Données**",
+                            "text": "Transformer les données en insights avec des outils comme Power BI !"
+                        },
+                        "ko": {
+                            "title": "**데이터 분석**",
+                            "text": "Power BI와 같은 도구로 데이터를 인사이트로 변환합니다!"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cloud",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Cloud & Hosting**",
+                            "text": "Experienced in AWS, GoDaddy, and cPanel for hosting solutions!"
+                        },
+                        "es": {
+                            "title": "**Nube y Hosting**",
+                            "text": "¡Experiencia en AWS, GoDaddy y cPanel para soluciones de hosting!"
+                        },
+                        "fr": {
+                            "title": "**Cloud et Hébergement**",
+                            "text": "Expérimenté avec AWS, GoDaddy et cPanel pour les solutions d'hébergement !"
+                        },
+                        "ko": {
+                            "title": "**클라우드 및 호스팅**",
+                            "text": "AWS, GoDaddy 및 cPanel에 대한 경험을 바탕으로 호스팅 솔루션을 제공합니다!"
                         }
                     }
                 }
@@ -181,30 +257,13 @@
                         "fa": "fa-brands fa-node-js",
                         "faColors": {"bg": "#339933", "fill": "#EEE"}
                     },
-                    "value": 95,
-                    "dates": {
-                        "start": "01/15/2019"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Node.js",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-java",
-                        "faColors": {"bg": "#007396", "fill": "#EEE"}
-                    },
                     "value": 90,
                     "dates": {
-                        "start": "03/10/2019"
+                        "start": "01/15/2021"
                     },
                     "locales": {
                         "en": {
-                            "title": "Java 11+",
+                            "title": "Node.js (Express.js)",
                             "info": null
                         }
                     }
@@ -215,9 +274,9 @@
                         "fa": "fa-brands fa-python",
                         "faColors": {"bg": "#306998", "fill": "#EEE"}
                     },
-                    "value": 85,
+                    "value": 80,
                     "dates": {
-                        "start": "06/20/2020"
+                        "start": "06/20/2021"
                     },
                     "locales": {
                         "en": {
@@ -229,16 +288,33 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-gem",
-                        "faColors": {"bg": "#CC0000", "fill": "#EEE"}
+                        "fa": "fa-brands fa-java",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
                     },
-                    "value": 80,
+                    "value": 75,
                     "dates": {
-                        "start": "08/30/2020"
+                        "start": "03/10/2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "Ruby on Rails",
+                            "title": "Java 11+",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-php",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "09/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PHP 8.0+",
                             "info": null
                         }
                     }
@@ -263,63 +339,12 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-docker",
-                        "faColors": {"bg": "#2496ED", "fill": "#EEE"}
-                    },
-                    "value": 60,
-                    "dates": {
-                        "start": "04/15/2021"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Docker",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-php",
-                        "faColors": {"bg": "#FFD700", "fill": "#111"}
-                    },
-                    "value": 100,
-                    "dates": {
-                        "start": "09/01/2018"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "PHP 8.0+",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-life-ring",
-                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
-                    },
-                    "value": 80,
-                    "dates": {
-                        "start": "07/10/2021"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Kubernetes",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-solid fa-server",
                         "faColors": {"bg": "#47A248", "fill": "#EEE"}
                     },
-                    "value": 50,
+                    "value": 90,
                     "dates": {
-                        "start": "05/20/2024"
+                        "start": "05/20/2021"
                     },
                     "locales": {
                         "en": {
@@ -331,16 +356,33 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-git",
-                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                        "fa": "fa-brands fa-docker",
+                        "faColors": {"bg": "#2496ED", "fill": "#EEE"}
                     },
-                    "value": 95,
+                    "value": 40,
                     "dates": {
-                        "start": "01/01/2018"
+                        "start": "04/15/2023"
                     },
                     "locales": {
                         "en": {
-                            "title": "Git",
+                            "title": "Docker",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-life-ring",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "value": 35,
+                    "dates": {
+                        "start": "07/10/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Kubernetes",
                             "info": null
                         }
                     }
@@ -363,9 +405,9 @@
                         "fa": "fa-brands fa-html5",
                         "faColors": {"bg": "#E34F26", "fill": "#EEE"}
                     },
-                    "value": 100,
+                    "value": 90,
                     "dates": {
-                        "start": "09/01/2018"
+                        "start": "09/01/2020"
                     },
                     "locales": {
                         "en": {
@@ -380,9 +422,9 @@
                         "fa": "fa-brands fa-css3",
                         "faColors": {"bg": "#1572B6", "fill": "#EEE"}
                     },
-                    "value": 65,
+                    "value": 80,
                     "dates": {
-                        "start": "01/15/2019"
+                        "start": "01/15/2020"
                     },
                     "locales": {
                         "en": {
@@ -410,13 +452,30 @@
                 },
                 {
                     "icon": {
+                        "img": "images/pictures/typescript_logo.png",
+                        "fa": null,
+                        "faColors": null
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "03/10/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "TypeScript",
+                            "info": null
+                        }
+                    }
+                },                
+                {
+                    "icon": {
                         "img": null,
                         "fa": "fa-brands fa-react",
                         "faColors": {"bg": "#61DAFB", "fill": "#111"}
                     },
-                    "value": 95,
+                    "value": 90,
                     "dates": {
-                        "start": "06/20/2020"
+                        "start": "06/20/2021"
                     },
                     "locales": {
                         "en": {
@@ -448,13 +507,110 @@
                         "fa": "fa-brands fa-bootstrap",
                         "faColors": {"bg": "#7952B3", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 70,
                     "dates": {
                         "start": "02/10/2021"
                     },
                     "locales": {
                         "en": {
                             "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "devOps_tools_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "DevOps & Tools"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {"bg": "#FF9900", "fill": "#232F3E"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "09/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AWS (Route 53, EC2, S3, IAM, RDS, and more)",
+                            "info": null
+                        }
+                    }
+                },                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Git & GitHub",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-project-diagram",
+                        "faColors": {"bg": "#0052CC", "fill": "#FFFFFF"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "03/10/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Jira Software",
+                            "info": null
+                        }
+                    }
+                },                          
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cogs",
+                        "faColors": {"bg": "#FF6C2C", "fill": "#FFFFFF"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "06/20/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Cpanel & WHM",
+                            "info": null
+                        }
+                    }
+                },                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-globe",
+                        "faColors": {"bg": "#01A4C8", "fill": "#111111"}
+                    },
+                    "value": 40,
+                    "dates": {
+                        "start": "08/30/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GoDaddy",
                             "info": null
                         }
                     }
@@ -476,6 +632,37 @@
             "items": [
                 {
                     "icon": {
+                        "img": "images/flags/es.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Spanish",
+                            "info": "Native speaker; highly proficient in both spoken and written communication.",
+                            "tags": ["Native"]
+                        },
+                        "es": {
+                            "title": "Español",
+                            "info": "Hablante nativo; altamente competente en comunicación oral y escrita.",
+                            "tags": ["Nativo"]
+                        },
+                        "fr": {
+                            "title": "Espagnol",
+                            "info": "Langue maternelle; grande maîtrise de l'oral et de l'écrit.",
+                            "tags": ["Natif"]
+                        },
+                        "ko": {
+                            "title": "스페인어",
+                            "info": "모국어; 구어 및 문어 모두에 능숙함.",
+                            "tags": ["모국어"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
                         "img": "images/flags/en.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
@@ -485,122 +672,27 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "info": "Native speaker with excellent communication and writing skills.",
-                            "tags": ["Native"]
+                            "info": "Proficient in both spoken and written communication; C1 level.",
+                            "tags": ["C1"]
                         },
                         "es": {
                             "title": "Inglés",
-                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "tags": ["Nativo"]
+                            "info": "Competente en comunicación oral y escrita; nivel C1.",
+                            "tags": ["C1"]
                         },
                         "fr": {
                             "title": "Anglais",
-                            "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "tags": ["Natif"]
+                            "info": "Compétent en communication orale et écrite; niveau C1.",
+                            "tags": ["C1"]
                         },
                         "ko": {
                             "title": "영어",
-                            "info": "모국어 수준의 의사소통 및 글쓰기 능력을 보유.",
-                            "tags": ["모국어"]
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": "images/flags/fr.png",
-                        "fa": null,
-                        "faColors": { "bg": null, "fill": null }
-                    },
-                    "value": null,
-                    "dates": { "start": null },
-                    "locales": {
-                        "en": {
-                            "title": "French",
-                            "info": "Fluent in both spoken and written French; confident in professional communication.",
-                            "tags": ["Fluent"]
-                        },
-                        "es": {
-                            "title": "Francés",
-                            "info": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
-                            "tags": ["Fluido"]
-                        },
-                        "fr": {
-                            "title": "Français",
-                            "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
-                            "tags": ["Courant"]
-                        },
-                        "ko": {
-                            "title": "프랑스어",
-                            "info": "구어 및 문어에 유창하며, 전문적인 소통에 자신감이 있음.",
-                            "tags": ["유창"]
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": "images/flags/vn.png",
-                        "fa": null,
-                        "faColors": { "bg": null, "fill": null }
-                    },
-                    "value": null,
-                    "dates": { "start": null },
-                    "locales": {
-                        "en": {
-                            "title": "Vietnamese",
-                            "info": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
-                            "tags": ["Intermediate"]
-                        },
-                        "es": {
-                            "title": "Vietnamita",
-                            "info": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y entender textos escritos.",
-                            "tags": ["Intermedio"]
-                        },
-                        "fr": {
-                            "title": "Vietnamien",
-                            "info": "Compétence intermédiaire en vietnamien; peut tenir des conversations et comprendre des textes écrits.",
-                            "tags": ["Intermédiaire"]
-                        },
-                        "ko": {
-                            "title": "베트남어",
-                            "info": "중간 수준의 베트남어 실력; 대화 가능 및 글을 이해할 수 있음.",
-                            "tags": ["중급"]
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": "images/flags/ko.png",
-                        "fa": null,
-                        "faColors": { "bg": null, "fill": null }
-                    },
-                    "value": null,
-                    "dates": { "start": null },
-                    "locales": {
-                        "en": {
-                            "title": "Korean",
-                            "info": "Basic understanding of Korean; learning and improving.",
-                            "tags": ["Basic"]
-                        },
-                        "es": {
-                            "title": "Coreano",
-                            "info": "Comprensión básica del coreano; aprendiendo y mejorando.",
-                            "tags": ["Básico"]
-                        },
-                        "fr": {
-                            "title": "Coréen",
-                            "info": "Compréhension de base du coréen; en apprentissage et amélioration.",
-                            "tags": ["Basique"]
-                        },
-                        "ko": {
-                            "title": "한국어",
-                            "info": "기초적인 한국어 이해; 배우는 중이며 향상 중.",
-                            "tags": ["기초"]
+                            "info": "구어 및 문어에 능숙함; C1 레벨 인증 보유.",
+                            "tags": ["C1"]
                         }
                     }
                 }
+
             ]
         }
     ]
