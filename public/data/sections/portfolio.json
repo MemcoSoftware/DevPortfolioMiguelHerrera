@@ -72,104 +72,7 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com"},
-                        {"faIcon": "fa-brands fa-npm", "href": "https://npm.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "BrainPulse",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
-                        },
-                        "es": {
-                            "title": "BrainPulse",
-                            "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
-                            "tags": ["API", "REST", "Backend"]
-                        },
-                        "fr": {
-                            "title": "BrainPulse",
-                            "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-                            "tags": ["API", "REST", "Backend"]
-                        },
-                        "ko": {
-                            "title": "BrainPulse",
-                            "text": "<b>Node.js</b>로 구축된 <b>RESTful API</b> 백엔드로, 고성능 데이터 처리 및 실시간 이벤트 처리용으로 설계되었습니다.",
-                            "tags": ["API", "REST", "Backend"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "apps",
-                    "icon": {
-                        "img": "images/pictures/project-logo-7.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
-                        "screenshots": {
-                            "aspectRatio": "9:16",
-                            "images": [
-                                "images/pictures/project-screenshot-1.webp",
-                                "images/pictures/project-screenshot-2.webp",
-                                "images/pictures/project-screenshot-3.webp",
-                                "images/pictures/project-screenshot-4.webp",
-                                "images/pictures/project-screenshot-5.webp"
-                            ]
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "MailM8",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
-                        },
-                        "es": {
-                            "title": "MailM8",
-                            "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
-                            "tags": ["Flutter", "Correo", "Comunicación"]
-                        },
-                        "fr": {
-                            "title": "MailM8",
-                            "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
-                        },
-                        "ko": {
-                            "title": "MailM8",
-                            "text": "<b>Flutter</b>로 구축된 크로스플랫폼 이메일 클라이언트로, 이메일 <b>관리</b>를 위한 직관적인 UI를 통해 효율적인 소통을 제공합니다.",
-                            "tags": ["Flutter", "이메일", "소통"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "apps",
-                    "icon": {
-                        "img": "images/pictures/project-logo-6.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/MemcoSoftware/python-depurador-ziriuz.git"}
                     ],
 
                     "media": {
@@ -177,36 +80,76 @@
                         "screenshots": {
                             "aspectRatio": "16:9",
                             "images": [
-                                "images/pictures/project-screenshot-6.png",
-                                "images/pictures/project-screenshot-7.png",
-                                "images/pictures/project-screenshot-8.png"
                             ]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "Stackers",
-                            "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-                            "tags": ["React", "Organization", "Notes"]
+                            "title": "Python DB Depurator",
+                            "text": "A powerful <b>Python-based utility</b> developed for database cleansing and optimization. Designed specifically for <b>Ziriuz.com</b>, it processes inventory databases by eliminating duplicates, unnecessary spaces, and punctuation, while intelligently reorganizing and classifying data. The program automatically assigns parts to equipment, alphabetizes entries, and generates a clean, structured inventory in an <b>XLS file</b>. This tool ensures enhanced data accuracy, efficiency, and usability for streamlined inventory management.",
+                            "tags": ["Python", "Database", "Inventory Optimization", "Automation"]
                         },
                         "es": {
-                            "title": "Stackers",
-                            "text": "Una app de productividad con todas las funciones, desarrollada con <b>React Native</b>, que permite a los usuarios organizar tareas, notas y proyectos en varios dispositivos. Ofrece <b>sincronización en la nube</b>, interfaz intuitiva y características de colaboración.",
-                            "tags": ["React", "Organización", "Notas"]
+                            "title": "Depurador de BD en Python",
+                            "text": "Una potente <b>herramienta basada en Python</b> desarrollada para la limpieza y optimización de bases de datos. Diseñada específicamente para <b>Ziriuz.com</b>, procesa bases de datos de inventario eliminando duplicados, espacios innecesarios y puntuaciones, al mismo tiempo que reorganiza y clasifica los datos de manera inteligente. El programa asigna repuestos a equipos automáticamente, organiza las entradas alfabéticamente y genera un inventario limpio y estructurado en un archivo <b>XLS</b>. Esta herramienta garantiza mayor precisión, eficiencia y utilidad de los datos para una gestión de inventario simplificada.",
+                            "tags": ["Python", "Base de Datos", "Optimización de Inventarios", "Automatización"]
                         },
                         "fr": {
-                            "title": "Stackers",
-                            "text": "Une application de productivité complète développée avec <b>React Native</b>, permettant aux utilisateurs d'organiser tâches, notes et projets sur plusieurs appareils. Elle offre <b>synchronisation cloud</b>, interface intuitive et fonctionnalités de collaboration.",
-                            "tags": ["React", "Organisation", "Notes"]
+                            "title": "Dépurateur BD Python",
+                            "text": "Un outil puissant <b>basé sur Python</b> développé pour le nettoyage et l'optimisation des bases de données. Conçu spécifiquement pour <b>Ziriuz.com</b>, il traite les bases de données d'inventaire en éliminant les doublons, les espaces inutiles et la ponctuation, tout en réorganisant et classant intelligemment les données. Le programme assigne automatiquement des pièces aux équipements, organise les entrées par ordre alphabétique et génère un inventaire propre et structuré dans un fichier <b>XLS</b>. Cet outil garantit une précision accrue des données, une efficacité optimale et une gestion simplifiée des inventaires.",
+                            "tags": ["Python", "Base de Données", "Optimisation d'Inventaire", "Automatisation"]
                         },
                         "ko": {
-                            "title": "Stackers",
-                            "text": "<b>React Native</b>로 개발된 기능이 풍부한 생산성 앱으로, 사용자가 여러 기기에서 작업, 메모, 프로젝트를 <b>클라우드 동기화</b>와 직관적인 UI로 관리할 수 있습니다.",
-                            "tags": ["React", "조직", "메모"]
+                            "title": "Python DB 정리기",
+                            "text": "<b>Python 기반 도구</b>로 개발된 강력한 데이터베이스 정리 및 최적화 유틸리티입니다. <b>Ziriuz.com</b>을 위해 설계되었으며, 중복 항목, 불필요한 공백 및 구두점을 제거하면서 인벤토리 데이터베이스를 처리하고 데이터를 지능적으로 재구성하고 분류합니다. 이 프로그램은 장비에 부품을 자동으로 할당하고, 항목을 알파벳 순서로 정렬하며, 깨끗하고 구조화된 인벤토리를 <b>XLS 파일</b>로 생성합니다. 이 도구는 데이터 정확도, 효율성 및 사용성을 향상시켜 인벤토리 관리 효율성을 보장합니다.",
+                            "tags": ["Python", "데이터베이스", "재고 최적화", "자동화"]
                         }
                     }
                 },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/project-logo-1.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://bioswift.net/appstore"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://bioswift.net/googleplay"}
+                    ],
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                            ]
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "BioSwift Mobile",
+                            "text": "The <b>mobile extension</b> of the innovative <b>BioSwift</b> web application, developed with the <b>MERN stack</b>, and currently <b>under development</b>. Designed to revolutionize the biomedical industry, this cross-platform app will enable real-time management of <b>clients, inventory, service orders</b>, and more, directly from your smartphone. Once completed, it will integrate with <b>Power BI</b> for real-time performance monitoring and insights, empowering businesses with on-the-go decision-making tools.",
+                            "tags": ["MERN", "Mobile App", "Under Development", "Biomedical", "Inventory Management", "Power BI"]
+                        },
+                        "es": {
+                            "title": "BioSwift Móvil",
+                            "text": "La <b>extensión móvil</b> de la innovadora aplicación web <b>BioSwift</b>, desarrollada con el <b>stack MERN</b>, y actualmente <b>en desarrollo</b>. Diseñada para revolucionar el sector biomédico, esta aplicación multiplataforma permitirá la gestión en tiempo real de <b>clientes, inventarios, órdenes de servicio</b> y más, directamente desde tu smartphone. Una vez completada, se integrará con <b>Power BI</b> para monitoreo de rendimiento en tiempo real y análisis que facilitarán la toma de decisiones sobre la marcha.",
+                            "tags": ["MERN", "App Móvil", "En Desarrollo", "Biomédico", "Gestión de Inventarios", "Power BI"]
+                        },
+                        "fr": {
+                            "title": "BioSwift Mobile",
+                            "text": "L'<b>extension mobile</b> de l'innovante application web <b>BioSwift</b>, développée avec le <b>stack MERN</b>, et actuellement <b>en cours de développement</b>. Conçue pour révolutionner le secteur biomédical, cette application multiplateforme permettra la gestion en temps réel des <b>clients, inventaires, ordres de service</b>, et bien plus encore, directement depuis votre smartphone. Une fois terminée, elle sera intégrée à <b>Power BI</b> pour un suivi des performances en temps réel et des analyses facilitant la prise de décisions en déplacement.",
+                            "tags": ["MERN", "Application Mobile", "En Développement", "Biomédical", "Gestion d'Inventaire", "Power BI"]
+                        },
+                        "ko": {
+                            "title": "BioSwift 모바일",
+                            "text": "<b>MERN 스택</b>으로 개발된 혁신적인 <b>BioSwift</b> 웹 애플리케이션의 <b>모바일 확장판</b>으로, 현재 <b>개발 중</b>입니다. 의료 기기 산업을 혁신하기 위해 설계된 이 크로스플랫폼 앱은 <b>고객, 재고, 서비스 주문</b> 등을 실시간으로 관리할 수 있도록 합니다. 완성되면 <b>Power BI</b>와 통합되어 실시간 성능 모니터링 및 분석을 제공하여 이동 중에도 데이터 기반 의사 결정을 지원할 예정입니다.",
+                            "tags": ["MERN", "모바일 앱", "개발 중", "생의학", "재고 관리", "Power BI"]
+                        }
+                    }
+                },                
 
                 {
                     "categoryId": "websites",
@@ -217,85 +160,47 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://cash.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "SmartCash",
-                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-                            "tags": ["Next.js", "Finance", "Money"]
-                        },
-                        "es": {
-                            "title": "SmartCash",
-                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
-                            "tags": ["Next.js", "Finanzas", "Dinero"]
-                        },
-                        "fr": {
-                            "title": "SmartCash",
-                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
-                            "tags": ["Next.js", "Finance", "Argent"]
-                        },
-                        "ko": {
-                            "title": "SmartCash",
-                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
-                            "tags": ["Next.js", "금융", "돈"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "apps",
-                    "icon": {
-                        "img": "images/pictures/project-logo-2.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://bioswift.net"}
                     ],
 
                     "media": {
                         "youtubeVideo": null,
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "4:3",
+                            "images": [
+                                "images/pictures/project-screenshot-9.png",
+                                "images/pictures/project-screenshot-10.png",
+                                "images/pictures/project-screenshot-11.png",
+                                "images/pictures/project-screenshot-12.png"
+
+                            ]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "Snappy",
-                            "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
-                            "tags": ["Swift", "Photography", "Camera"]
+                            "title": "BioSwift",
+                            "text": "An innovative web application developed with the <b>MERN stack</b>, tailored for the biomedical industry. <b>BioSwift</b> revolutionizes business operations by offering seamless <b>user and inventory management</b>. Track and manage <b>clients, locations, equipment, spare parts, service orders</b>, and much more in real-time. Integrated with <b>Power BI</b>, it provides real-time dashboards for performance monitoring and data-driven decision-making. Trusted by biomedical companies to enhance efficiency and ensure operational excellence.",
+                            "tags": ["MERN", "Biomedical", "Inventory Management", "Real-Time Monitoring", "Power BI"]
                         },
                         "es": {
-                            "title": "Snappy",
-                            "text": "Una app de fotografía potente diseñada con <b>Swift</b> para iOS y Android, con <b>controles avanzados de cámara</b>, herramientas de edición y filtros potenciados por IA para mejoras rápidas de fotos.",
-                            "tags": ["Swift", "Fotografía", "Cámara"]
+                            "title": "BioSwift",
+                            "text": "Una innovadora aplicación web desarrollada con el <b>stack MERN</b>, diseñada para el sector biomédico. <b>BioSwift</b> revoluciona las operaciones empresariales ofreciendo una gestión fluida de <b>usuarios e inventarios</b>. Permite rastrear y administrar en tiempo real <b>clientes, sedes, equipos, repuestos, órdenes de servicio</b> y mucho más. Integrado con <b>Power BI</b>, proporciona tableros en tiempo real para monitorear el rendimiento y tomar decisiones basadas en datos. Confiado por empresas biomédicas para mejorar la eficiencia y garantizar la excelencia operativa.",
+                            "tags": ["MERN", "Biomédico", "Gestión de Inventarios", "Monitoreo en Tiempo Real", "Power BI"]
                         },
                         "fr": {
-                            "title": "Snappy",
-                            "text": "Une application de photographie puissante conçue avec <b>Swift</b> pour iOS et Android, avec des <b>contrôles avancés de la caméra</b>, des outils d'édition et des filtres IA pour des améliorations rapides des photos.",
-                            "tags": ["Swift", "Photographie", "Caméra"]
+                            "title": "BioSwift",
+                            "text": "Une application web innovante développée avec le <b>stack MERN</b>, conçue pour le secteur biomédical. <b>BioSwift</b> révolutionne les opérations commerciales en offrant une <b>gestion transparente des utilisateurs et des inventaires</b>. Suivez et gérez en temps réel <b>clients, sites, équipements, pièces détachées, ordres de service</b>, et bien plus encore. Intégré à <b>Power BI</b>, il offre des tableaux de bord en temps réel pour surveiller les performances et prendre des décisions basées sur les données. Approuvée par les entreprises biomédicales pour améliorer l'efficacité et assurer l'excellence opérationnelle.",
+                            "tags": ["MERN", "Biomédical", "Gestion d'Inventaire", "Surveillance en Temps Réel", "Power BI"]
                         },
                         "ko": {
-                            "title": "Snappy",
-                            "text": "<b>Swift</b>로 설계된 강력한 사진 앱으로, iOS 및 Android에서 <b>고급 카메라 제어</b>, 편집 도구, AI 기반 필터를 통해 빠르게 사진을 보정할 수 있습니다.",
-                            "tags": ["Swift", "사진", "카메라"]
+                            "title": "BioSwift",
+                            "text": "의료 기기 산업을 위해 <b>MERN 스택</b>으로 개발된 혁신적인 웹 애플리케이션 <b>BioSwift</b>는 <b>사용자 및 재고 관리</b>를 통해 비즈니스 운영을 혁신합니다. <b>고객, 위치, 장비, 부품, 서비스 주문</b> 등을 실시간으로 추적하고 관리할 수 있습니다. <b>Power BI</b>와 통합되어 실시간 대시보드를 제공하여 성능을 모니터링하고 데이터 기반 의사 결정을 지원합니다. 효율성을 향상시키고 운영 우수성을 보장하기 위해 바이오메디컬 기업들이 신뢰하는 솔루션입니다.",
+                            "tags": ["MERN", "생의학", "재고 관리", "실시간 모니터링", "Power BI"]
                         }
                     }
                 },
+
 
                 {
                     "categoryId": "websites",
@@ -306,170 +211,39 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com"}
+
                     ],
 
                     "media": {
                         "youtubeVideo": null,
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/project-screenshot-13.png"
+                            ]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
+                            "title": "El Ahorro",
+                            "text": "An innovative web application developed with the <b>MERN stack</b>, designed for <b>market businesses</b> of all sizes, from small corner stores to large supermarkets. El Ahorro empowers users with <b>inventory management</b>, <b>sales and purchase tracking</b>, <b>billing</b>, and <b>supplier administration</b>. Real-time analytics enhance <b>productivity</b> and <b>decision-making efficiency</b>, helping businesses streamline operations and achieve optimal performance. As the <b>CEO and founder</b>, I am leading the development of this project, bringing a vision of transformation to the retail industry.",
+                            "tags": ["MERN", "Inventory", "Real-Time Analytics", "Retail", "Efficiency"]
                         },
                         "es": {
-                            "title": "Sweet Scoops",
-                            "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
-                            "tags": ["WooCommerce", "Comida", "Postres"]
+                            "title": "El Ahorro",
+                            "text": "Una aplicación web innovadora desarrollada con el <b>stack MERN</b>, diseñada para <b>negocios de mercado</b> de todos los tamaños, desde pequeñas tiendas hasta grandes supermercados. El Ahorro ofrece herramientas avanzadas de <b>gestión de inventarios</b>, <b>seguimiento de ventas y compras</b>, <b>facturación</b> y <b>administración de proveedores</b>. Los análisis en tiempo real mejoran la <b>productividad</b> y la <b>eficiencia en la toma de decisiones</b>, ayudando a las empresas a optimizar sus operaciones. Como <b>CEO y fundador</b>, lidero el desarrollo de este proyecto con una visión transformadora para la industria minorista.",
+                            "tags": ["MERN", "Inventarios", "Análisis en Tiempo Real", "Retail", "Eficiencia"]
                         },
                         "fr": {
-                            "title": "Sweet Scoops",
-                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
+                            "title": "El Ahorro",
+                            "text": "Une application web innovante développée avec le <b>stack MERN</b>, conçue pour les <b>entreprises de marché</b> de toutes tailles, des petites épiceries aux grands supermarchés. El Ahorro offre des fonctionnalités avancées de <b>gestion des stocks</b>, <b>suivi des ventes et achats</b>, <b>facturation</b> et <b>administration des fournisseurs</b>. Les analyses en temps réel améliorent la <b>productivité</b> et l'<b>efficacité de la prise de décision</b>, aidant les entreprises à optimiser leurs opérations. En tant que <b>PDG et fondateur</b>, je dirige le développement de ce projet, apportant une vision de transformation au secteur du commerce de détail.",
+                            "tags": ["MERN", "Inventaire", "Analyse en Temps Réel", "Commerce de Détail", "Efficacité"]
                         },
                         "ko": {
-                            "title": "Sweet Scoops",
-                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
-                            "tags": ["WooCommerce", "음식", "디저트"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "websites",
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-guitar",
-                        "faColors": {"bg": "#111", "fill": "#EEE"}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://rockverse.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": "",
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
-                        },
-                        "es": {
-                            "title": "RockVerse",
-                            "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-                            "tags": ["Django", "Música", "Rock"]
-                        },
-                        "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
-                        },
-                        "ko": {
-                            "title": "RockVerse",
-                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-                            "tags": ["Django", "음악", "록"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "utilities",
-                    "icon": {
-                        "img": "images/pictures/project-logo-4.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-
-                    "links": [
-                    ],
-
-                    "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0",
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "Soccer Analytics",
-                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-                            "tags": ["AI", "Prediction", "Soccer"]
-                        },
-                        "es": {
-                            "title": "Soccer Analytics",
-                            "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
-                            "tags": ["IA", "Predicción", "Fútbol"]
-                        },
-                        "fr": {
-                            "title": "Soccer Analytics",
-                            "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
-                            "tags": ["IA", "Prédiction", "Football"]
-                        },
-                        "ko": {
-                            "title": "Soccer Analytics",
-                            "text": "<b>Python</b> 및 <b>TensorFlow</b>로 구축된 AI 기반 스포츠 분석 플랫폼으로, 축구에 대한 <b>예측</b> 및 팀 관리 도구를 제공합니다.",
-                            "tags": ["AI", "예측", "축구"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "apps",
-                    "icon": {
-                        "img": "",
-                        "fa": "fa-solid fa-truck-fast",
-                        "faColors": {"bg": "#007396", "fill": "#EEE"}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": null,
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "QuickDrop",
-                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
-                        },
-                        "es": {
-                            "title": "QuickDrop",
-                            "text": "Una app de entregas multiplataforma construida con <b>React Native</b> y un backend de <b>Node.js</b>, con <b>seguimiento en tiempo real</b> e integración perfecta en múltiples plataformas.",
-                            "tags": ["React Native", "Entrega", "Seguimiento"]
-                        },
-                        "fr": {
-                            "title": "QuickDrop",
-                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
-                            "tags": ["React Native", "Livraison", "Suivi"]
-                        },
-                        "ko": {
-                            "title": "QuickDrop",
-                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
-                            "tags": ["React Native", "배송", "실시간 추적"]
+                            "title": "El Ahorro",
+                            "text": "작은 가게부터 대형 슈퍼마켓까지 모든 규모의 <b>시장 비즈니스</b>를 위해 <b>MERN 스택</b>으로 개발된 혁신적인 웹 애플리케이션입니다. El Ahorro는 <b>재고 관리</b>, <b>판매 및 구매 추적</b>, <b>청구</b>, <b>공급업체 관리</b>와 같은 고급 도구를 제공합니다. 실시간 분석은 <b>생산성</b>과 <b>의사 결정 효율성</b>을 향상시켜 비즈니스 운영을 간소화하고 최적의 성과를 달성할 수 있도록 돕습니다. <b>CEO 및 창립자</b>로서 저는 이 프로젝트의 개발을 주도하며 소매 업계에 변화를 가져오는 비전을 실현하고 있습니다.",
+                            "tags": ["MERN", "재고 관리", "실시간 분석", "소매업", "효율성"]
                         }
                     }
                 }
